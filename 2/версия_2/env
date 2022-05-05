@@ -1,0 +1,5 @@
+hostname=mysql.kube.tensor.local
+server_port=3336
+database=tensor
+database_user=root
+database_password=tensor
